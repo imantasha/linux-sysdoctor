@@ -1,4 +1,4 @@
-# Linux SysDoctor 🩺
+# Linux SysDoctor 
 
 A lightweight Linux system health and security triage toolkit, built in pure Bash
 with no external dependencies. Designed to answer the two questions a support
